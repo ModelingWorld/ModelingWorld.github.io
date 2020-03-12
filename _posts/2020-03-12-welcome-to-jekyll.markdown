@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "欢迎来到音乐世界"
 date:   2020-03-12 03:10:09 +0800
 categories: jekyll update
 ---
